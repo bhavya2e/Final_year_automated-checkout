@@ -89,5 +89,5 @@ This video is uploaded to the App and the following result is obtained.
 
 
 ## Author
-### Name: Nakul Ramesh Varma
+### Name: Bhavya Chaubey, Kshiteesh Kumar, Nandita Yadav
 
